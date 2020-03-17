@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/aw000022",
-	"version": "1.0.202003161315",
+	"version": "1.0.202003171145",
 	"description": "拼接文件id为可访问路径",
 	"scripts": {
 		"test": "npm run build && karma start --single-run",
